@@ -1,0 +1,37 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright 2011 Google Inc. All Rights Reserved.
+FontName Roboto Thin
+FontSubfamily Regular
+UniqueID Roboto Thin
+FullName Roboto Thin
+Version Version 2.137; 2017
+PostScriptName Roboto-Thin
+LicenseURL http://www.apache.org/licenses/LICENSE-2.0
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 49
+UnderlinePosition -73
+FontHeightOffset 0
+Ascender 928
+Descender -244
+FontBBox -732 -271 1127 1056
+StartCharMetrics 34
+U 32 ; WX 239 ; N uni0020 ; G 1
+U 44 ; WX 187 ; N uni002c ; G 2
+U 46 ; WX 214 ; N uni002e ; G 3
+U 48 ; WX 547 ; N uni0030 ; G 4
+U 49 ; WX 547 ; N uni0031 ; G 5
+U 50 ; WX 547 ; N uni0032 ; G 6
+U 51 ; WX 547 ; N uni0033 ; G 7
+U 52 ; WX 547 ; N uni0034 ; G 8
+U 53 ; WX 547 ; N uni0035 ; G 9
+U 54 ; WX 547 ; N uni0036 ; G 10
+U 55 ; WX 547 ; N uni0037 ; G 11
+U 56 ; WX 547 ; N uni0038 ; G 12
+U 57 ; WX 547 ; N uni0039 ; G 13
+EndCharMetrics
+EndFontMetrics
